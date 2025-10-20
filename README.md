@@ -37,7 +37,7 @@ Tenho perfil **analítico e planejador**, sempre buscando entregar software com 
 ---
 
 ### Contato
-📧 E-mail: **seuemail@exemplo.com**  
+📧 E-mail: **dpmlopesqa@gmail.com**  
 💼 LinkedIn: [linkedin.com/in/dayanepriscilaqa](https://linkedin.com/in/dayanepriscilaqa)  
 🐙 GitHub: [github.com/dayanepriscilaqa](https://github.com/dayanepriscilaqa)
 
