@@ -1,0 +1,14 @@
+{
+  "name": "qa-portfolio-bdd-playwright",
+  "version": "1.0.0",
+  "description": "Portfólio QA - Cucumber + Playwright + BDD completo com screenshots e relatórios",
+  "scripts": {
+  "install-browsers": "npx playwright install",
+  "test": "npx cucumber-js features --require ./features/support/*.js --require ./features/step_definitions/**/*.js --format html:reports/report.html --format progress"
+},
+  "devDependencies": {
+    "@cucumber/cucumber": "^9.0.0",
+    "playwright": "^1.40.0"
+  }
+}
+
