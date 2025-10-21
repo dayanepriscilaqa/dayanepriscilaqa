@@ -23,8 +23,8 @@ Tenho perfil **analítico e planejador**, sempre buscando entregar software com 
 ### Meus Projetos
 | Projeto | Descrição | Link |
 |----------|------------|------|
-|  **QA Portfolio - Playwright + Cucumber** | Teste E2E com login e relatório HTML | [Ver Repositório](https://github.com/dayanepriscilaqa/qa-portfolio-bdd-playwright) |
-|  **Testes de API com Postman** | Coleção automatizada e exportada | _(em construção)_ |
+|  **QA Portfolio - Playwright + Cucumber** | Teste E2E com login e relatório HTML | [Ver Repositório](https://github.com/dayanepriscilaqa/qa-portfolio-bdd-playwright-completo) |
+|  **QA Portfolio - API Testing (REST + GraphQL)** | Testes automatizados com Cucumber + Axios | [Ver Repositório](https://github.com/dayanepriscilaqa/qa-portfolio-bdd-playwright-api) |
 |  **Scripts de automação** | Scripts simples para tarefas de QA | _(em construção)_ |
 
 ---
@@ -43,4 +43,4 @@ Tenho perfil **analítico e planejador**, sempre buscando entregar software com 
 
 ---
 
-> ⭐ Dica: visite o repositório de automação [Playwright + Cucumber](https://github.com/dayanepriscilaqa/qa-portfolio-bdd-playwright) para ver meu código rodando com BDD, Gherkin e relatórios automáticos!
+> ⭐ Dica: visite o repositório de automação [Playwright + Cucumber](https://github.com/dayanepriscilaqa/qa-portfolio-bdd-playwright-completo) para ver meu código rodando com BDD, Gherkin e relatórios automáticos!
