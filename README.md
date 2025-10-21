@@ -1,5 +1,5 @@
 # Olá, eu sou a Dayane Priscila  
-**QA Engineer | Analista de Testes | Automação de Testes | BDD | Playwright | Cucumber**
+**QA | Analista de Testes | Automação de Testes | BDD | Playwright | Cucumber**
 
 ---
 
@@ -13,7 +13,7 @@ Tenho perfil **analítico e planejador**, sempre buscando entregar software com 
 ### Tecnologias e Ferramentas
 - **Automação:** Playwright, Cypress, Selenium  
 - **BDD:** Cucumber, Gherkin  
-- **API Testing:** Postman, Newman  
+- **API Testing:** Postman  
 - **Versionamento:** Git & GitHub  
 - **CI/CD:** GitHub Actions  
 - **Linguagens:** JavaScript, Python (básico)  
