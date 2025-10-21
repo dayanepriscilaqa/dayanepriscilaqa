@@ -5,7 +5,7 @@
 
 ### Sobre mim
 Sou profissional de QA apaixonada por qualidade de software e boas práticas de desenvolvimento.  
-Atualmente, estou desenvolvendo meu portfólio em automação de testes com **Cucumber, Playwright e BDD (Gherkin)**.  
+Atualmente, estou desenvolvendo meu portfólio em automação de testes com **Cucumber, Playwright, GraphQL, REST e BDD (Gherkin)**.  
 Tenho perfil **analítico e planejador**, sempre buscando entregar software com qualidade, previsibilidade e confiança.
 
 ---
@@ -13,7 +13,7 @@ Tenho perfil **analítico e planejador**, sempre buscando entregar software com 
 ### Tecnologias e Ferramentas
 - **Automação:** Playwright, Cypress, Selenium  
 - **BDD:** Cucumber, Gherkin  
-- **API Testing:** Postman  
+- **API Testing:** Postman, Mocha, Supertest, GraphQL  
 - **Versionamento:** Git & GitHub  
 - **CI/CD:** GitHub Actions  
 - **Linguagens:** JavaScript, Python (básico)  
@@ -22,10 +22,10 @@ Tenho perfil **analítico e planejador**, sempre buscando entregar software com 
 
 ### Meus Projetos
 | Projeto | Descrição | Link |
-|----------|------------|------|
-|  **QA Portfolio - Playwright + Cucumber** | Teste E2E com login e relatório HTML | [Ver Repositório](https://github.com/dayanepriscilaqa/qa-portfolio-bdd-playwright-completo) |
-|  **QA Portfolio - API Testing (REST + GraphQL)** | Testes automatizados com Cucumber + Axios | [Ver Repositório](https://github.com/dayanepriscilaqa/qa-portfolio-bdd-playwright-api) |
-|  **Scripts de automação** | Scripts simples para tarefas de QA | _(em construção)_ |
+|--------|-----------|------|
+| **QA Portfolio - Playwright + Cucumber** | Teste E2E com login e relatório HTML | [Ver Repositório](https://github.com/dayanepriscilaqa/qa-portfolio-bdd-playwright-completo) |
+| **QA Portfolio - API Testing (REST + GraphQL)** | Testes automatizados com Mocha, Supertest e GraphQL | [Ver Repositório](https://github.com/dayanepriscilaqa/API-Rest-GraphQL) |
+| **Scripts de automação** | Scripts simples para tarefas de QA | _(em construção)_ |
 
 ---
 
